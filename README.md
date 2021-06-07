@@ -1,9 +1,13 @@
-# spotify_numjump
-Spotify Spicetify Extension
+# numjump
+
+### Spotify Spicetify Extension
 
 Jumps to tenth of song using 0-9 keys, similar to youtube
 
 ```spicetify config extensions numjump.js
-spicetify apply```
+spicetify apply
+```
 
-[Wiki](https://github.com/khanhas/spicetify-cli/wiki/Extensions) for installation
+Requires [Spicetify!](https://github.com/khanhas/spicetify-cli) 
+
+[Wiki](https://github.com/khanhas/spicetify-cli/wiki/Extensions) for installing other extensions
