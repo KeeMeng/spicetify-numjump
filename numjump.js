@@ -2,7 +2,7 @@
 
 // NAME: numjump
 // AUTHOR: KeeMeng
-// DESCRIPTION: Jump to percent of song using number keys (like youtube)
+// DESCRIPTION: Jumps to tenth of song using 0-9 keys, similar to youtube
 
 
 (function numjump() {
