@@ -4,7 +4,8 @@
 
 Jumps to tenth of song using 0-9 keys, similar to youtube
 
-```spicetify config extensions numjump.js
+```
+spicetify config extensions numjump.js
 spicetify apply
 ```
 
